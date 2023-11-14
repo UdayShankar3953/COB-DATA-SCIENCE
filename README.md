@@ -33,10 +33,3 @@ This repository contains a Data Science project focusing on various phases, incl
 3. Review the code snippets and adjust paths or API endpoints as needed.
 4. Run the scripts or notebooks in the respective project phases.
 
-## Contributing
-
-Contributions to improve the code or add new features are welcome. Please create an issue or pull request for any suggestions or changes.
-
-## License
-
-This project is licensed under the [Your License Here] License - see the [LICENSE](LICENSE) file for details.
